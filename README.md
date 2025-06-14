@@ -13,7 +13,7 @@ Designed for developers, homelabbers, and small infra owners who want:
 
 ## 🧰 Features
 
-- List all site projects from `/srv/sites/*`
+- List all site projects from `/var/www/{project_name}/`
 - View Docker Compose service status
 - Restart containers
 - Tail logs
